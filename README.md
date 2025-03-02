@@ -6,3 +6,4 @@ v0.01
 
 **NOTE: THIS PROJECT IS CURRENTLY UNTESTED!**
 
+![TI-99/4A Atari Joystick Adapter](TI99-Atari-Joystick-Adapter.png "TI-99/4A Atari Joystick Adapter")
